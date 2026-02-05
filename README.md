@@ -6,25 +6,20 @@ The exercises focus on algorithmic thinking, basic data manipulation, mathematic
 
 **Exercise List**
 
-*1. String Reversal*
-Write a function that reverses a given string.
-
-Even Number Filtering
-Create a program that returns a new list containing only even numbers from an input list.
-
-FizzBuzz
-Print numbers from 1 to 100:
-
+*1. String Reversal*: Write a function that reverses a given string.
+<br>
+*2. Even Number Filtering*: Create a program that returns a new list containing only even numbers from an input list.
+<br>
+*3. FizzBuzz*: Print numbers from 1 to 100:
+<br>
 Multiples of 3 → "Fizz"
-
+<br>
 Multiples of 5 → "Buzz"
-
-Anagram Check
-Determine whether two input strings are anagrams.
-
-Prime Number Check
-Check if a given number is prime.
-
+<br>
+*4. Anagram Check*: Determine whether two input strings are anagrams.
+<br>
+*5. Prime Number Check*: Check if a given number is prime.
+<br>
 Greatest Common Divisor (GCD)
 Compute the GCD of two integers.
 
