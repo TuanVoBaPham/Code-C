@@ -1,11 +1,12 @@
-Overview
+**Overview**
+-----
 
 This repository contains a collection of programming exercises designed to strengthen fundamental programming skills used in C/C++ and embedded system development.
 The exercises focus on algorithmic thinking, basic data manipulation, mathematical computations, and string processing.
 
-Exercise List
+**Exercise List**
 
-String Reversal
+*1. String Reversal*
 Write a function that reverses a given string.
 
 Even Number Filtering
