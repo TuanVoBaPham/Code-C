@@ -20,32 +20,24 @@ Multiples of 5 → "Buzz"
 <br>
 *5. Prime Number Check*: Check if a given number is prime.
 <br>
-Greatest Common Divisor (GCD)
-Compute the GCD of two integers.
-
-Extended FizzBuzz
-Print numbers from 1 to 100:
-
+*6. Greatest Common Divisor (GCD)*: Compute the GCD of two integers.
+<br>
+*7. Extended FizzBuzz*: Print numbers from 1 to 100:
+<br>
 Multiples of 3 → "Fizz"
-
+<br>
 Multiples of 5 → "Buzz"
-
+<br>
 Numbers containing digit 3 → "Fizz"
-
-Matrix Transposition
-Return the transpose of a given matrix.
-
-Armstrong Number Check
-Check whether a number is an Armstrong number.
-
-Fibonacci Series
-Generate the Fibonacci sequence up to a specified number of terms.
-
-Pascal’s Triangle
-Generate Pascal’s triangle for a given number of rows.
-
-Word Count
-Count the frequency of each word in a sentence.
-
-Binary to Decimal Conversion
-Convert a binary number to its decimal equivalent.
+<br>
+*8. Matrix Transposition*: Return the transpose of a given matrix.
+<br>
+*9. Armstrong Number Check*: Check whether a number is an Armstrong number.
+<br>
+*10. Fibonacci Series*: Generate the Fibonacci sequence up to a specified number of terms.
+<br>
+*11. Pascal’s Triangle*: Generate Pascal’s triangle for a given number of rows.
+<br>
+*12. Word Count*: Count the frequency of each word in a sentence.
+<br>
+*13. Binary to Decimal Conversion*: Convert a binary number to its decimal equivalent.
